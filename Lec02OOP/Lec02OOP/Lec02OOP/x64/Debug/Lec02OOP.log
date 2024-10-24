@@ -1,0 +1,2 @@
+﻿Lec02OOP.obj : error LNK2005: main already defined in Challenge2_Task3.obj
+C:\Users\ahmed\Desktop\C++\Lec02OOP\Lec02OOP\x64\Debug\Lec02OOP.exe : fatal error LNK1169: one or more multiply defined symbols found
